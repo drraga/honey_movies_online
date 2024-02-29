@@ -1,5 +1,5 @@
-import getFilms from '../../API/modules/films'
-import mapSingleFilmRequest from '../../mapping/MapSingleFilmRequest'
+import getFilms from '../../API/modules/films';
+import mapSingleFilmRequest from '../../mapping/MapSingleFilmRequest';
 
 export default {
   namespaced: true,
